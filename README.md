@@ -38,6 +38,7 @@ It is **highly recommended** to keep obs-websocket protected with a password aga
 - [Deckboard](https://deckboard.app/)
 - [OBS Blade](https://github.com/Kounex/obs_blade)
 - [Aitum](https://aitum.tv/)
+- [SAMMI](https://sammi.solutions/)
 
 ### Client libraries (for developers)
 
